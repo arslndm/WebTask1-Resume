@@ -1,57 +1,78 @@
 #rightContainer {
   box-sizing: border-box;
-  border: 5px solid red;
+  /* border: 5px solid red; */
   float: right;
   width: 75%;
+  /* padding-left: 3px; */
 }
 ul,
-dl {
+dl,
+hr {
   margin: 0px;
 }
+
+.padLeft {
+  padding-left: 5px;
+}
 #educationLabel {
-  border: 5px solid whitesmoke;
+  /* border: 5px solid whitesmoke; */
   text-align: center;
+  font-weight: bold;
+  font-size: 25px;
 }
 #clg {
   float: right;
   width: 20%;
-  border: 2px solid greenyellow;
 }
+
 #sch {
   float: right;
   width: 20%;
-  border: 2px solid greenyellow;
+}
+#schDiv {
+  margin-bottom: 25px;
+}
+.titles {
+  font-weight: bold;
 }
 #workLabel {
-  border: 5px solid pink;
+  /* border: 5px solid pink; */
   text-align: center;
+  font-weight: bold;
+  font-size: 25px;
 }
+
 #work1p {
   float: right;
   width: 20%;
-  border: 2px solid greenyellow;
 }
 #work2p {
   float: right;
   width: 20%;
-  border: 2px solid greenyellow;
 }
 #activityLabel {
-  border: 5px solid yellowgreen;
+  /* border: 5px solid yellowgreen; */
   text-align: center;
   color: black;
   background-color: lightgray;
+  font-size: 20px;
+}
+#activity {
+  margin-bottom: 10px;
 }
 #certLabel {
-  border: 5px solid burlywood;
+  /* border: 5px solid burlywood; */
   text-align: center;
   color: black;
   background-color: lightgray;
+  font-size: 20px;
 }
-
+#cert {
+  margin-bottom: 10px;
+}
 #refLabel {
-  border: 5px solid burlywood;
   text-align: center;
   color: black;
   background-color: lightgray;
+  font-size: 20px;
 }
