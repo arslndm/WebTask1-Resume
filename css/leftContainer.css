@@ -1,0 +1,53 @@
+#leftContainer {
+  box-sizing: border-box;
+  border: 5px solid yellow;
+  float: left;
+  width: 25%;
+}
+p {
+  margin: 0;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-top: 7px;
+}
+
+#name {
+  margin: 0px 40px;
+}
+
+#std {
+  margin: 0px 60px;
+}
+
+#photo {
+  border: 5px solid white;
+  background-color: rgb(132, 60, 11);
+}
+#profile {
+  border: 5px solid blueviolet;
+  background-color: rgb(197, 89, 17);
+}
+#objLabel {
+  border: 5px solid papayawhip;
+  background-color: rgb(132, 60, 11);
+  text-align: center;
+}
+#obj {
+  border: 5px solid blue;
+  background-color: rgb(197, 89, 17);
+}
+#skillLabel {
+  border: 5px solid gray;
+  background-color: rgb(132, 60, 11);
+  text-align: center;
+}
+#skill {
+  border: 5px solid blue;
+  background-color: rgb(197, 89, 17);
+}
+#project {
+  border: 5px solid white;
+}

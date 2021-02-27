@@ -1,0 +1,6 @@
+#mainContainer {
+  box-sizing: border-box;
+  border: 10px solid purple;
+  width: 60%;
+  overflow: hidden;
+}

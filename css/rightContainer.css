@@ -1,0 +1,57 @@
+#rightContainer {
+  box-sizing: border-box;
+  border: 5px solid red;
+  float: right;
+  width: 75%;
+}
+ul,
+dl {
+  margin: 0px;
+}
+#educationLabel {
+  border: 5px solid whitesmoke;
+  text-align: center;
+}
+#clg {
+  float: right;
+  width: 20%;
+  border: 2px solid greenyellow;
+}
+#sch {
+  float: right;
+  width: 20%;
+  border: 2px solid greenyellow;
+}
+#workLabel {
+  border: 5px solid pink;
+  text-align: center;
+}
+#work1p {
+  float: right;
+  width: 20%;
+  border: 2px solid greenyellow;
+}
+#work2p {
+  float: right;
+  width: 20%;
+  border: 2px solid greenyellow;
+}
+#activityLabel {
+  border: 5px solid yellowgreen;
+  text-align: center;
+  color: black;
+  background-color: lightgray;
+}
+#certLabel {
+  border: 5px solid burlywood;
+  text-align: center;
+  color: black;
+  background-color: lightgray;
+}
+
+#refLabel {
+  border: 5px solid burlywood;
+  text-align: center;
+  color: black;
+  background-color: lightgray;
+}
