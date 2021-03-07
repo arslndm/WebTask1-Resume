@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.leftContainer {
+  border: 5px solid red;
+  float: left;
+  width: 60%;
+}
+@media screen and (max-width: 600px) {
+  .leftContainer {
+    float: none;
+    width: 100%;
+  }
+}
+.mainPhoto {
+  border: 5px solid purple;
+}
+.productPhotos {
+  border: 5px solid wheat;
+}
