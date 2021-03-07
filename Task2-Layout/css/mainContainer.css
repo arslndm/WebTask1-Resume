@@ -14,12 +14,14 @@
 }
 div.navBar ul {
   overflow: hidden;
-  background-color: ;
+  margin-left: 750px;
 }
 
 div.navBar li {
   list-style-type: none;
   float: left;
+  text-align: center;
+  padding: 0px 10px;
 }
 div.navBar li:hover {
   background-color: #6e2a24;
@@ -29,7 +31,7 @@ div.navBar a {
   text-decoration: none;
   color: white;
   display: block;
-  padding: 20px;
+  padding: 13px;
 }
 
 @media screen and (max-width: 600px) {
@@ -47,6 +49,9 @@ div.navBar a {
 }
 .logoContainer {
   border: 5px solid green;
+  padding: 30px 0px;
+  text-align: center;
+  clear: right;
 }
 .leftRightParent {
   border: 5px solid tomato;
@@ -54,8 +59,12 @@ div.navBar a {
 }
 .companyInfo {
   border: 5px solid gray;
+  text-align: center;
+  padding: 20px;
 }
 
 .footer {
   border: 5px solid pink;
+  text-align: center;
+  padding: 40px;
 }
